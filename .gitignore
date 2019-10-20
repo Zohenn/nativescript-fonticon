@@ -1,5 +1,5 @@
-*.js
-*.js.map
+#*.js
+#*.js.map
 *.log
 !scripts/*.js
 demo/app/*.js
@@ -10,5 +10,5 @@ demo/node_modules
 node_modules
 .idea/
 **/.DS_Store
-plugin/**/*.d.ts
-/plugin/package-lock.json
+#plugin/**/*.d.ts
+#/plugin/package-lock.json
